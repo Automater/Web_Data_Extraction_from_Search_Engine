@@ -13,7 +13,6 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 <ol>
 <li>Monitor websites for any new product listings and extract data.</li>
 <li>Financial analysts monitor trends and stats for products.</li>
-<li>Extract property information from websites.</li>
 <li>Save search engine results into a database instead of HTML or web file.</li>
 <li>Extract property information from websites.</li>
 <li>Monitor blogs and forums.</li>
