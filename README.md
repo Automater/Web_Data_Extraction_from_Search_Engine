@@ -26,7 +26,7 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 <li>Able to read and extract from multilingual websites such as Chinese, German, Korean, Arabic, French, etc.</li>
 </ol>
 
-![Alt text](http://173.0.133.251/images/GitHub/webAutomation.jpg "Intelligent Web Application")
+![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
 
 
 ### INTEGRATION APPROACH ###
