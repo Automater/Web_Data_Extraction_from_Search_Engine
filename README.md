@@ -67,10 +67,6 @@ F.  Modifications to the scripts may be made easily.
 The web extraction process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
 
 
-To learn more about Automation Anywhere, take the video tour:
-
-http://www.automationanywhere.com/lrn/keyFeat/wdePattern.htm
-
 
 #### Methodology ####
 
