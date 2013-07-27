@@ -1,0 +1,7 @@
+@ACL1000
+^LOGFILE  Web_Data_Harvesting                 "" "Web_Data_Harvesting.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Web_Data_Harvesting                
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\Web_Data_Harvesting\Harvest.bat"' ASYNC
+^OPEN 
