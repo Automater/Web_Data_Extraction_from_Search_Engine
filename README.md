@@ -42,7 +42,7 @@ B.  Type "Audit" as the search keyword.
 ![Alt text](http://173.0.133.251/images/GitHub/results.jpg "Keyword")
 
 
-C.  Data extracted from the website.
+C.  Data extracted from the search results which may span multiple pages i.e. it can go to the next page until the last page automatically.
 
 ![Alt text](http://173.0.133.251/images/GitHub/extracted.jpg "Data extracted from the website")
 
