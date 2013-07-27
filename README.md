@@ -72,7 +72,7 @@ A)  Data_Harvesting.atmx
  
 B)  Data_Harvesting.atmr
 
-3.  The software would be able to detect the presence of the saved task.  Now you can run the ACL script to perform the web data extraction.
+The software would be able to detect the presence of the saved task.  Now you can run the ACL script to perform the web data extraction.
 
 ![Alt text](http://173.0.133.251/images/GitHub/AA.jpg "Saved task")
 
