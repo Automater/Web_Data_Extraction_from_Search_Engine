@@ -1,6 +1,6 @@
-### Extract search engine data from the Web and save it to a database ###
+### Extract web search engine data and save it to a database ###
 
-![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-fulla.jpg "Integrate with SQL and Major Databases")
+![Alt text](http://173.0.133.251/images/GitHub/webDataExtImg.jpg "Web data extraction")
 
 
 Web data extraction when performed manually, is a time consuming, and error-prone process. Furthermore, maintenance of any manual based approach is very expensive and not scalable.
