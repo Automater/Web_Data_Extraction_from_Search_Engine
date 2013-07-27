@@ -69,7 +69,7 @@ The web extraction process rely on an external application called Automation Any
 
 To learn more about Automation Anywhere, take the video tour:
 
-[![IMAGE ALT TEXT HERE](http://173.0.133.251/images/GitHub/video.jpg)](http://www.automationanywhere.com/lrn/keyFeat/wdePattern.htm)
+http://www.automationanywhere.com/lrn/keyFeat/wdePattern.htm
 
 
 #### Methodology ####
