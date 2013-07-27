@@ -64,8 +64,17 @@ F.  Modifications to the scripts may be made easily.
 
 ### THIRD-PARTY REQUIREMENTS ###
 
-The web extraction process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
+1.  The web data extraction process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
 
+2.  Copy both files into the folder: "My Documents\Automation Anywhere\Automation Anywhere\My Tasks".  For example: "C:\Users\Photoshop\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks"
+
+A)  Data_Harvesting.atmx
+ 
+B)  Data_Harvesting.atmr
+
+3.  The software would be able to detect the presence of the saved task.  Now you can select the task and run it.
+
+![Alt text](http://173.0.133.251/images/GitHub/AA.jpg "Saved task")
 
 
 #### Methodology ####
