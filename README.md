@@ -3,21 +3,10 @@
 ![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-fulla.jpg "Integrate with SQL and Major Databases")
 
 
+Web data extraction when performed manually, is a time consuming, and error-prone process. Furthermore, maintenance of any manual based approach is very expensive and not scalable.
 
+Automating data gathering and analysis is crucial for enterprises to retain or gain a competitive edge. 
 
-### BUSINESS RISK ###
-
-Keeping two or more separate databases up to date with each other's data changes can be a daunting topic. 
-
-Whether your database solution is simple or complex, there are five key issues to consider:
-
-<ol>
-<li>How similar are the structures of the databases to be kept in synch? If they are identical, you are a step ahead in the game. As they become more dissimilar, syncing becomes more difficult and more abstract.</li>
-<li>How often do the databases need to be synced?</li>
-<li>How will you resolve situations in which the same data has been modified in both (or more) of your databases since the last sync session? There are a number of approaches from fairly simple to quite complex.</li>
-<li>How much effort and/or money are you willing to invest in developing your sync system?</li>
-<li>How much effort are you willing to put up with at each sync session?</li>
-</ol>
 
 
 ### INTEGRATION APPROACH ###
