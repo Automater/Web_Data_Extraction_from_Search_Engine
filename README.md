@@ -32,25 +32,30 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 
 ### TESTING APPROACH ###
 
-1.  Find info in a website e.g. http://businessfinder.mlive.com/
+1.  Go to any website to extract data from e.g. http://businessfinder.mlive.com/
 
 ![Alt text](http://173.0.133.251/images/GitHub/website-mlive.jpg "Website to extract data from")
+
 
 2.  Type "Audit" as the search keyword.
 
 ![Alt text](http://173.0.133.251/images/GitHub/results.jpg "Keyword")
 
+
 3.  Data extracted from the website.
 
 ![Alt text](http://173.0.133.251/images/GitHub/extracted.jpg "Data extracted from the website")
+
 
 4.  Results of the extraction.
 
 ![Alt text](http://173.0.133.251/images/GitHub/data.jpg "Results of the extraction")
 
+
 5.  Saved results in "Audit_Firms_Michigan.csv" file.
 
 ![Alt text](http://173.0.133.251/images/GitHub/excel.jpg "Results saved in csv file")
+
 
 6.  Modifications to the scripts may be made easily.
 
@@ -59,14 +64,12 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 
 ### THIRD-PARTY REQUIREMENTS ###
 
-The ACL scripts rely on an external application called DBConvert tools (http://www.dbconvert.com).  To run DBConvert tools, your computer must have DBConvert installed. The easiest way to install DBConvert tools on a Windows computer is to download the software from http://www.dbconvert.com.
+The web extraction process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
 
 
-To learn more about DBConvert, take the video tour:
+To learn more about Automation Anywhere, take the video tour:
 
-[![IMAGE ALT TEXT HERE](http://173.0.133.251/images/GitHub/video-img.jpg)](http://www.youtube.com/v/N_tAwAROclE?version=3&hl=ru_RU&rel=0)
-
-[![IMAGE ALT TEXT HERE](http://173.0.133.251/images/GitHub/3rd-party.gif)](http://www.dbconvert.com/order.php)
+[![IMAGE ALT TEXT HERE](http://173.0.133.251/images/GitHub/video.jpg)](http://www.automationanywhere.com/lrn/keyFeat/wdePattern.htm)
 
 
 #### Methodology ####
