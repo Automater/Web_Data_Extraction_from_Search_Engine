@@ -29,43 +29,37 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 ![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
 
 
-### INTEGRATION APPROACH ###
-
-Our approach to the integration of databases uses the least effort and money i.e. merge replication.
-
-![Alt text](http://173.0.133.251/images/GitHub/approach.gif "Integration Approach")
-
-
-### DATABASE CONVERSION / SYNCING POSSIBILITY MATRIX ###
-
-![Alt text](http://173.0.133.251/images/GitHub/synch2a.gif "Integrate with Databases")
-
-The table below shows the different types of databases and the possible type of integration:
-
-
-
-The full suite of conversion and sync tools can be found here: http://www.dbconvert.com/order.php
-
-
-
 
 ### TESTING APPROACH ###
 
-This project includes an ACL script which leverages the new EXECUTE command in ACL Analytics v10 to conduct database conversion between MS SQL database (source) and Access database (destination). The scripts included in the project will:
+1.  Find info in a website e.g. http://businessfinder.mlive.com/
 
-1.  Run the DBConvert tool (downloadable trial from http://dbconvert.com/convert-access-to-mssql-sync.php) in the script "Integrate_SQL_and_Databases".  The sync progress is shown below:
+![Alt text](http://173.0.133.251/images/GitHub/website-mlive.jpg "Website to extract data from")
 
-![Alt text](http://173.0.133.251/images/GitHub/progress.gif "Synchronization Progress")
+2.  Type "Audit" as the search keyword.
 
-2.  The software's scheduled service will also perform the conversion at a regular interval.  (See www.dbconvert.com/scheduler-configuration-manual.php for more info.)
+![Alt text](http://173.0.133.251/images/GitHub/results.jpg "Keyword")
 
+3.  Data extracted from the website.
 
-Modifications to the scripts may obviously be made to add your own different databases' login credentials, software name and path, etc. The scripts simply illustrate an example of how to conduct a conversion between MS SQL database (source) and Access database (destination).  (For more info, see http://dbconvert.com/faq.php)
+![Alt text](http://173.0.133.251/images/GitHub/extracted.jpg "Data extracted from the website")
+
+4.  Results of the extraction.
+
+![Alt text](http://173.0.133.251/images/GitHub/data.jpg "Results of the extraction")
+
+5.  Saved results in "Audit_Firms_Michigan.csv" file.
+
+![Alt text](http://173.0.133.251/images/GitHub/excel.jpg "Results saved in csv file")
+
+6.  Modifications to the scripts may be made easily.
+
+![Alt text](http://173.0.133.251/images/GitHub/script.jpg "Modifications to the scripts")
 
 
 ### THIRD-PARTY REQUIREMENTS ###
 
-The ACL scripts below rely on external database converters and synchronizers called DBConvert tools (http://www.dbconvert.com).  To run DBConvert tools, your computer must have DBConvert installed. The easiest way to install DBConvert tools on a Windows computer is to download the software from http://www.dbconvert.com.
+The ACL scripts rely on an external application called DBConvert tools (http://www.dbconvert.com).  To run DBConvert tools, your computer must have DBConvert installed. The easiest way to install DBConvert tools on a Windows computer is to download the software from http://www.dbconvert.com.
 
 
 To learn more about DBConvert, take the video tour:
