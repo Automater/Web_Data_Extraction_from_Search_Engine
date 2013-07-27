@@ -8,7 +8,7 @@ Web data extraction when performed manually, is a time consuming, and error-pron
 Automating data gathering and analysis is crucial for enterprises to retain or gain a competitive edge. 
 
 
-### BUSINESS INTELLIGENCE ###
+### INTELLIGENT APPLICATION ###
 
 <ol>
 <li>Monitor websites for any new product listings and extract data.</li>
