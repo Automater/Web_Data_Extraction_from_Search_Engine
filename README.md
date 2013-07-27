@@ -32,32 +32,32 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 
 ### TESTING APPROACH ###
 
-1.  Go to any website to extract data from e.g. http://businessfinder.mlive.com/
+A.  Go to any website to extract data from e.g. http://businessfinder.mlive.com/
 
 ![Alt text](http://173.0.133.251/images/GitHub/website-mlive.jpg "Website to extract data from")
 
 
-2.  Type "Audit" as the search keyword.
+B.  Type "Audit" as the search keyword.
 
 ![Alt text](http://173.0.133.251/images/GitHub/results.jpg "Keyword")
 
 
-3.  Data extracted from the website.
+C.  Data extracted from the website.
 
 ![Alt text](http://173.0.133.251/images/GitHub/extracted.jpg "Data extracted from the website")
 
 
-4.  Results of the extraction.
+D.  Results of the extraction.
 
 ![Alt text](http://173.0.133.251/images/GitHub/data.jpg "Results of the extraction")
 
 
-5.  Saved results in "Audit_Firms_Michigan.csv" file.
+E.  Saved results in "Audit_Firms_Michigan.csv" file.
 
 ![Alt text](http://173.0.133.251/images/GitHub/excel.jpg "Results saved in csv file")
 
 
-6.  Modifications to the scripts may be made easily.
+F.  Modifications to the scripts may be made easily.
 
 ![Alt text](http://173.0.133.251/images/GitHub/script.jpg "Modifications to the scripts")
 
