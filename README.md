@@ -105,3 +105,7 @@ You will be able to see the saved script in the Automation Anywhere's task pane.
 
 ![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
 
+
+#### About Me ####
+
+I like to see new things, learn new things and try new things.
