@@ -8,6 +8,7 @@ Web data extraction when performed manually, is a time consuming, and error-pron
 Automating data gathering and analysis is crucial for enterprises to retain or gain a competitive edge. 
 
 
+
 ### INTELLIGENT APPLICATION ###
 
 <ol>
@@ -26,6 +27,27 @@ Automating data gathering and analysis is crucial for enterprises to retain or g
 </ol>
 
 ![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
+
+
+### BUSINESS RISK ###
+
+Flash animation is a great way to present complex content because it allows the designer to put more content in a finite space, without wrecking page design. For technology sites, Flash is an ideal way to present a slide show or movie explaining a complex product.
+
+At the other end of the spectrum, a site built entirely with Flash suffers a great disadvantage because it lacks page structure to organize the content, internal linking, and unique page titles.  And Flash gets a bad rap, undeserved in my opinion, for harming search engine visibility.
+
+However, worry no more as this web extraction function works with any website made of:
+
+<ol>
+<li>Flash</li>
+<li>I-frames</li>
+<li>AJAX</li>
+<li>Sites with and without frames</li>
+<li>Secure sites and non-secure sites</li>
+<li>Sites with JavaScript</li>
+<li>Static and dynamic web sites</li>
+<li>Forums and blogs</li>
+<li>...and much more</li>
+</ol>
 
 
 
