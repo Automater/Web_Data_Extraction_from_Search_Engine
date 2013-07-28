@@ -36,7 +36,7 @@ Flash animation is a great way to present complex content because it allows the 
 
 At the other end of the spectrum, a site built entirely with Flash suffers a great disadvantage because it lacks page structure to organize the content, internal linking, and unique page titles.  And Flash gets a bad rap, undeserved in my opinion, for harming search engine visibility.
 
-However, worry no more as this web extraction function works with any website made of:
+However, worry no more as this web data extraction function works with any website made of:
 
 <ol>
 <li>Flash</li>
