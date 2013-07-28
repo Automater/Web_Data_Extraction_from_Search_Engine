@@ -75,7 +75,7 @@ You will be able to see the saved script in the Automation Anywhere's task pane.
 
 ![Alt text](http://173.0.133.251/images/GitHub/AA.jpg "Saved task")
 
-Automation Anywhere scripting is easy to learn and can the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.
+<blockquote>Automation Anywhere scripting is easy to learn and can the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.</blockquote>
 
 
 #### Methodology ####
