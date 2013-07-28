@@ -8,27 +8,6 @@ Web data extraction when performed manually, is a time consuming, and error-pron
 Automating data gathering and analysis is crucial for enterprises to retain or gain a competitive edge. 
 
 
-
-### INTELLIGENT APPLICATION ###
-
-<ol>
-<li>Monitor websites for any new product listings and extract data.</li>
-<li>Financial analysts monitor trends and stats for products.</li>
-<li>Save search engine results into a database instead of HTML or web file.</li>
-<li>Extract property information from websites.</li>
-<li>Monitor blogs and forums.</li>
-<li>Compare interest rates from various sources.</li>
-<li>Harvest contacts and addresses.</li>
-<li>Lead generation.</li>
-<li>Monitor customer opinions about you and competitors.</li>
-<li>Run multiple web data extraction tasks simultaneously at once.</li>
-<li>Gain or retain a competitive edge.</li>
-<li>Able to read and extract from multilingual websites such as Chinese, German, Korean, Arabic, French, etc.</li>
-</ol>
-
-![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
-
-
 ### BUSINESS RISK ###
 
 Flash animation is a great way to present complex content because it allows the designer to put more content in a finite space, without wrecking page design. For technology sites, Flash is an ideal way to present a slide show or movie explaining a complex product.
@@ -48,6 +27,27 @@ However, worry no more as this web extraction function works with any website ma
 <li>Forums and blogs</li>
 <li>...and much more</li>
 </ol>
+
+
+
+### INTELLIGENT APPLICATION ###
+
+<ol>
+<li>Monitor websites for any new product listings and extract data.</li>
+<li>Financial analysts monitor trends and stats for products.</li>
+<li>Save search engine results into a database instead of HTML or web file.</li>
+<li>Extract property information from websites.</li>
+<li>Monitor blogs and forums.</li>
+<li>Compare interest rates from various sources.</li>
+<li>Harvest contacts and addresses.</li>
+<li>Lead generation.</li>
+<li>Monitor customer opinions about you and competitors.</li>
+<li>Run multiple web data extraction tasks simultaneously at once.</li>
+<li>Gain or retain a competitive edge.</li>
+<li>Able to read and extract from multilingual websites such as Chinese, German, Korean, Arabic, French, etc.</li>
+</ol>
+
+![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
 
 
 
