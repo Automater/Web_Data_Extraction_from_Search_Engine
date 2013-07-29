@@ -83,7 +83,7 @@ F.  Modifications to the scripts may be made easily.
 
 ![Alt text](http://173.0.133.251/images/GitHub/script.jpg "Modifications to the scripts")
 
-<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.</blockquote>
+<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller.</blockquote>
 
 
 ### THIRD-PARTY REQUIREMENTS ###
